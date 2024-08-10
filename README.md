@@ -6,7 +6,7 @@
 1) Open Start -> Programs -> Accessories -> Notepad
 2) Type the following training data set with the help of Notepad for Employee Table.
 
-```
+
 --------------
 Employee Data
 ---------------
@@ -44,7 +44,7 @@ overcast,64.0,65.0,false,yes
 sunny,72.0,95.0,true,no
 sunny,69.0,70.0,false,yes
 rainy,75.0,80.0,false,yes
-```
+
 3) After that the file is saved with .arff file format.
 4) Minimize the arff file and then open Start -> Programs -> weka-3-4.
 5) Click on weka-3-4, then Weka dialog box is displayed on the screen.
@@ -112,4 +112,4 @@ rainy,75.0,80.0,false,yes
 ![image](https://github.com/varalakshmi1084/WDM_EXP1/assets/93427017/54ec1ea5-c7f3-4674-a4fa-1097afacbc6e)
 
 ### RESULT: 
-Thus the program for generating employee and weather datasets has been developed, and preprocessing has been accomplished successfully.
+Thus the program for generating employee and weather datasets has been developed, and preprocessing has been accomplished successfully.
